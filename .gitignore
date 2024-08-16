@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Chuck Norris Cipher Encoder (Java)/*
+!/Chuck Norris Cipher Encoder (Java)/task/
+/Chuck Norris Cipher Encoder (Java)/task/*
+!/Chuck Norris Cipher Encoder (Java)/task/src
+
+# Project exclude paths
+/Topics/Processing strings/Create an euphonious word/out/
+/Topics/Processing strings/Create an euphonious word/out/production/classes/
